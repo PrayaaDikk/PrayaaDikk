@@ -1,9 +1,9 @@
 # Hi there! 👋  
-I'm Fadil Prayadika, a passionate developer interested in web development and software engineering.
+I'm Fadil Prayadika, a passionate developer interested in web development.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Next.js**.
-- 💬 Ask me about **Web Development and Software Engineering**.
+- 💬 Ask me about **Web Development**.
 
 ## 📊 Stats
 ![PrayaaDIkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayaadikk&show=reviews&show_icons=true&theme=dark)
