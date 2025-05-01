@@ -13,7 +13,7 @@ I'm Fadil Prayadika, a passionate developer interested in web development.
 
 
 ## 📫 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PrayaaDIkk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prayaadikaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadil-prayadika-9852272a1) [![Hackerrank](https://img.shields.io/badge/HackerRank-black.svg?logo=HackerRank&logoColor=%232EC866)](https://linkedin.com/in/fadil-prayadika-9852272a1)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PrayaaDIkk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prayaadikaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadil-prayadika-9852272a1) [![Hackerrank](https://img.shields.io/badge/HackerRank-black.svg?logo=HackerRank&logoColor=%232EC866)](https://www.hackerrank.com/profile/PrayaaDikk)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrayaaDikk&icon=0&color=0)](https://visitcount.itsvg.in)
